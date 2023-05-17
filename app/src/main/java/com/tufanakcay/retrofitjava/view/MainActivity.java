@@ -1,8 +1,10 @@
-package com.tufanakcay.retrofitjava;
+package com.tufanakcay.retrofitjava.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.tufanakcay.retrofitjava.R;
 
 public class MainActivity extends AppCompatActivity {
 
